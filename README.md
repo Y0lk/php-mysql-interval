@@ -1,4 +1,12 @@
 # php-mysql-interval
+
+[![Latest Stable Version](https://img.shields.io/packagist/v/y0lk/php-mysql-interval.svg)](https://packagist.org/packages/y0lk/php-mysql-interval)
+[![Build Status](https://img.shields.io/travis/Y0lk/php-mysql-interval.svg)](https://travis-ci.org/Y0lk/php-mysql-interval)
+[![Code Coverage](https://scrutinizer-ci.com/g/Y0lk/php-mysql-interval/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Y0lk/php-mysql-interval/?branch=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Y0lk/php-mysql-interval/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Y0lk/php-mysql-interval/?branch=master)
+[![License](https://img.shields.io/packagist/l/y0lk/php-mysql-interval.svg)](https://github.com/y0lk/php-mysql-interval/blob/master/LICENSE)
+[![Total Downloads](https://img.shields.io/packagist/dt/y0lk/php-mysql-interval.svg?maxAge=2592000)](https://packagist.org/packages/y0lk/php-mysql-interval)
+
 Tiny PHP class to convert DateInterval objects to MySQL temporal interval expressions
 
 ## Installation
