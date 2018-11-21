@@ -1,0 +1,30 @@
+{
+    "name": "y0lk/php-mysql-interval",
+    "description": "Convert DateInterval to MySQL temporal INTERVAL expressions",
+    "type": "library",
+    "license": "MIT",
+	"authors": [
+    	{
+      		"name": "Y0lk",
+      		"email": "gabriel@inkrebit.com",
+      		"homepage": "https://github.com/Y0lk"
+    	}
+    ],
+	"keywords": [
+		"interval",
+		"date",
+		"period",
+		"mysql"
+	],
+	"require": {
+		"php": ">=7.0.0"
+	},
+	"require-dev": {
+        "phpunit/phpunit": "^7.4"
+    },
+	"autoload": {
+	    "psr-4": {
+	      "Y0lk\\MySQLInterval\\": "src/"
+	    }
+	}
+}
